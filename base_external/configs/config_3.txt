@@ -29,3 +29,4 @@ dtoverlay=miniuart-bt
 dtoverlay=krnbt=on
 
 dtparam=i2c_arm=on
+force_turbo=1
